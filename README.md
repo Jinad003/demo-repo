@@ -13,3 +13,7 @@ Class: Profile
 ## Subheader
 
 Watch tutorial 
+
+##Local Development
+
+1 open html in your broswer
